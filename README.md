@@ -1,5 +1,4 @@
 # My name is Micah Wasmuth
-- I play electric bass for fun, but...
-- I am on the path to becoming a cybersecurity researcher, and I love computer science
-- I know a fair amount of Java, Ruby, and C/C++, and I'm currently working on learning Rust
+- I do computer things.
+- I am most proficient in Java and Rust, and slightly versed in C/C++
 - You can reach me at micahwasmuth@gmail.com
